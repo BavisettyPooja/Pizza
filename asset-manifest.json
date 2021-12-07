@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/BavisettyPooja/Pizza.git/static/css/main.449637ee.chunk.css",
+    "main.js": "/BavisettyPooja/Pizza.git/static/js/main.16af10c0.chunk.js",
+    "main.js.map": "/BavisettyPooja/Pizza.git/static/js/main.16af10c0.chunk.js.map",
+    "runtime-main.js": "/BavisettyPooja/Pizza.git/static/js/runtime-main.c8955f44.js",
+    "runtime-main.js.map": "/BavisettyPooja/Pizza.git/static/js/runtime-main.c8955f44.js.map",
+    "static/css/2.383c0125.chunk.css": "/BavisettyPooja/Pizza.git/static/css/2.383c0125.chunk.css",
+    "static/js/2.5bb84ea9.chunk.js": "/BavisettyPooja/Pizza.git/static/js/2.5bb84ea9.chunk.js",
+    "static/js/2.5bb84ea9.chunk.js.map": "/BavisettyPooja/Pizza.git/static/js/2.5bb84ea9.chunk.js.map",
+    "index.html": "/BavisettyPooja/Pizza.git/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/BavisettyPooja/Pizza.git/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.449637ee.chunk.css.map": "/BavisettyPooja/Pizza.git/static/css/main.449637ee.chunk.css.map",
+    "static/js/2.5bb84ea9.chunk.js.LICENSE.txt": "/BavisettyPooja/Pizza.git/static/js/2.5bb84ea9.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/BavisettyPooja/Pizza.git/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-1.8e3e9966.jpg": "/BavisettyPooja/Pizza.git/static/media/pizza-1.8e3e9966.jpg",
+    "static/media/pizza-2.e103d354.jpg": "/BavisettyPooja/Pizza.git/static/media/pizza-2.e103d354.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/BavisettyPooja/Pizza.git/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/BavisettyPooja/Pizza.git/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/BavisettyPooja/Pizza.git/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/BavisettyPooja/Pizza.git/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/BavisettyPooja/Pizza.git/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/BavisettyPooja/Pizza.git/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet.3fb051b4.jpg": "/BavisettyPooja/Pizza.git/static/media/sweet.3fb051b4.jpg",
+    "static/media/sweet2.1c39faa9.jpg": "/BavisettyPooja/Pizza.git/static/media/sweet2.1c39faa9.jpg",
+    "static/media/sweet3.c495c742.jpg": "/BavisettyPooja/Pizza.git/static/media/sweet3.c495c742.jpg",
+    "static/media/sweet4.0ddc7517.jpg": "/BavisettyPooja/Pizza.git/static/media/sweet4.0ddc7517.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8955f44.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.5bb84ea9.chunk.js",
+    "static/css/main.449637ee.chunk.css",
+    "static/js/main.16af10c0.chunk.js"
+  ]
+}
